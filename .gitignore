@@ -128,3 +128,14 @@ node_modules/
 # Ignore IDEA files
 .idea/
 local.properties
+
+# Temporary reversing tools
+*.jar
+*.apk
+*.apkm
+*.zip
+foodvisor-smali/
+foodvisor-src/
+jadx/
+morphe-temporary-files/
+foodvisor-patched.keystore
