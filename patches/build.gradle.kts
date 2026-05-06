@@ -1,11 +1,11 @@
-group = "app.template"
+group = "com.ameen.foodvisor.patches"
 
 patches {
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "Foodvisor Morphe Patches"
+        description = "Patches for the Foodvisor app"
+        source = "https://github.com/MorpheApp/foodvisor-morphe"
+        author = "Ameen"
         contact = "na"
         website = "na"
         license = "GPLv3"
