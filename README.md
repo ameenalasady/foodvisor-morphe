@@ -9,10 +9,21 @@ This repository contains patches for the Foodvisor app, allowing for various enh
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0](https://github.com/ameenalasady/foodvisor-morphe/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Foodvisor&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-#### A list of your patches will be automatically shown here after your first patches release is created.
+**🎯 Supported versions:**
 
-&nbsp;
+| 7.0.0-3 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Unlocks premium features and diets. |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
