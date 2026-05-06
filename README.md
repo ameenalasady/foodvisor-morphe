@@ -14,6 +14,8 @@ This repository contains patches for the Foodvisor app, allowing for various enh
 
 &nbsp;
 
+<!-- PATCHES_END -->
+
 ## 🚀 Get started
 
 To start using these patches, follow the instructions below.
