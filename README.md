@@ -32,7 +32,7 @@ The easiest way to apply these patches is through the **Morphe Manager** or **Mo
 ## 🩹 Patches List
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0-dev.1](https://github.com/ameenalasady/foodvisor-morphe/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.0.0](https://github.com/ameenalasady/foodvisor-morphe/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
 <details open>
 <summary>📦 Foodvisor&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
