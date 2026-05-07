@@ -13,10 +13,9 @@ Enhance your nutrition tracking experience with custom patches designed for the 
 Morphe Patches are bytecode-level modifications that enhance the functionality of Android applications. By using this repository, you can apply custom logic to the Foodvisor APK to unlock advanced features or modify app behavior without needing the original source code.
 
 ## ✨ Key Features
-- 🔓 **Feature Unlocks**: Access advanced nutritional insights and personalized coaching.
-- 🚫 **Clean Experience**: Remove intrusive elements for a smoother tracking workflow.
-- 🛠️ **Custom Enhancements**: Tailored modifications to improve the Foodvisor user interface.
-- ⚡ **Optimized Performance**: Lightweight patches that don't compromise app stability.
+- 🔓 **Unlock Premium**: Access all premium features, including advanced nutritional insights, personalized coaching, and specialized diets.
+- ⚡ **Reliable Patching**: Uses precise bytecode fingerprints to ensure stable performance and compatibility.
+- 🎯 **Version Specific**: Carefully tested and verified for Foodvisor version 7.0.0-3.
 
 ## 🚀 Get Started
 
