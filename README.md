@@ -4,8 +4,6 @@
 
 **A collection of modern, powerful patches for various Android apps using the Morphe framework.**
 
-This repository serves as a single source for all Morphe patches developed by Ameen. By combining multiple apps into one repository, it's easier for users to find and manage patches without cluttering their Morphe Manager sources.
-
 ## 📱 Supported Apps
 
 ### 🥗 Foodvisor
