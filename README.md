@@ -32,17 +32,19 @@ The easiest way to apply these patches is through the **Morphe Manager** or **Mo
 ## 🩹 Patches List
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.1.0](https://github.com/ameenalasady/ameen-morphe/releases/tag/v1.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
-
+> **[v1.1.0-dev.1](https://github.com/ameenalasady/ameen-morphe/releases/tag/v1.1.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
 <summary>📦 Foodvisor&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
-**🎯 Supported versions:** 7.0.0-3
+**🎯 Supported versions:**
 
-| 💊&nbsp;Patch | 📜&nbsp;Description |
-|----------|----------------|
-| Foodvisor: Unlock Premium | Unlocks premium features and diets in Foodvisor. |
+| 7.0.0-3 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Unlocks premium features and diets. |  |
 
 </details>
 
@@ -50,11 +52,14 @@ The easiest way to apply these patches is through the **Morphe Manager** or **Mo
 <summary>📦 PhotoGrid&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
-**🎯 Supported versions:** 8.81
+**🎯 Supported versions:**
 
-| 💊&nbsp;Patch | 📜&nbsp;Description |
-|----------|----------------|
-| PhotoGrid: Unlock Premium | Unlocks all PhotoGrid premium features. |
+| 8.81 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Unlocks all PhotoGrid premium features by making IabUtils always report the user as premium. |  |
 
 </details>
 

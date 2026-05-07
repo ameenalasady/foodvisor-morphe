@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.0-dev.1",
   "patches": [
     {
-      "name": "Foodvisor: Unlock Premium",
-      "description": "Unlocks premium features and diets in Foodvisor.",
+      "name": "Unlock Premium",
+      "description": "Unlocks premium features and diets.",
       "default": true,
       "dependencies": [],
       "compatiblePackages": [
@@ -27,7 +27,7 @@
       "options": []
     },
     {
-      "name": "PhotoGrid: Unlock Premium",
+      "name": "Unlock Premium",
       "description": "Unlocks all PhotoGrid premium features by making IabUtils always report the user as premium.",
       "default": true,
       "dependencies": [],
