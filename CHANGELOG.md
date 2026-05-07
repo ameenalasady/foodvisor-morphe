@@ -1,3 +1,10 @@
+# [1.1.0-dev.1](https://github.com/ameenalasady/ameen-morphe/compare/v1.0.0...v1.1.0-dev.1) (2026-05-07)
+
+
+### Features
+
+* merge photogrid patches and rename to ameen-morphe ([38027b2](https://github.com/ameenalasady/ameen-morphe/commit/38027b208186a68f05cff244523c513059f6b970))
+
 # 1.0.0 (2026-05-06)
 
 

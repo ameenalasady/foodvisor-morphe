@@ -1,10 +1,10 @@
-group = "com.ameen.foodvisor.patches"
+group = "com.ameen.morphe.patches"
 
 patches {
     about {
-        name = "Foodvisor Morphe Patches"
-        description = "Patches for the Foodvisor app"
-        source = "https://github.com/MorpheApp/foodvisor-morphe"
+        name = "Ameen's Morphe Patches"
+        description = "A collection of Morphe patches for various apps (Foodvisor, PhotoGrid, etc.)"
+        source = "https://github.com/ameenalasady/ameen-morphe"
         author = "Ameen"
         contact = "na"
         website = "na"

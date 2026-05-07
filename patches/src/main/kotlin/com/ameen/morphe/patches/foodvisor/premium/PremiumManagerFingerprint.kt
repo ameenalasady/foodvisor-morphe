@@ -1,4 +1,4 @@
-package com.ameen.foodvisor.patches.premium
+package com.ameen.morphe.patches.foodvisor.premium
 
 import app.morphe.patcher.Fingerprint
 import app.morphe.patcher.string

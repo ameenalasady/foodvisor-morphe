@@ -1,8 +1,8 @@
-package com.ameen.foodvisor.patches.premium
+package com.ameen.morphe.patches.foodvisor.premium
 
 import app.morphe.patcher.extensions.InstructionExtensions.addInstructions
 import app.morphe.patcher.patch.bytecodePatch
-import com.ameen.foodvisor.patches.shared.COMPATIBILITY_FOODVISOR
+import com.ameen.morphe.patches.foodvisor.shared.COMPATIBILITY_FOODVISOR
 
 @Suppress("unused")
 val unlockPremiumPatch = bytecodePatch(
