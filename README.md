@@ -1,6 +1,5 @@
 # 🥗 Foodvisor Morphe Patches
 
-[![SEO](https://img.shields.io/badge/SEO-Optimized-brightgreen)](https://github.com/ameenalasady/foodvisor-morphe)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 **Modern, powerful patches for the Foodvisor app using the Morphe framework.**
