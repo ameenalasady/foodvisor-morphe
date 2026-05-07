@@ -1,4 +1,4 @@
-package com.ameen.foodvisor.patches.shared
+package com.ameen.morphe.patches.foodvisor.shared
 
 import app.morphe.patcher.patch.ApkFileType
 import app.morphe.patcher.patch.AppTarget

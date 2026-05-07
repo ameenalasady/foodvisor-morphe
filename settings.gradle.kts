@@ -1,4 +1,4 @@
-rootProject.name = "foodvisor-morphe"
+rootProject.name = "ameen-morphe"
 
 pluginManagement {
     repositories {
