@@ -1,12 +1,37 @@
 # 🥗 Foodvisor Morphe Patches
 
-Patches for the Foodvisor app using the Morphe framework.
+[![SEO](https://img.shields.io/badge/SEO-Optimized-brightgreen)](https://github.com/ameenalasady/foodvisor-morphe)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## ❓ About
+**Modern, powerful patches for the Foodvisor app using the Morphe framework.**
 
-This repository contains patches for the Foodvisor app, allowing for various enhancements and features.
+Enhance your nutrition tracking experience with custom patches designed for the Foodvisor Android application. This repository leverages the **Morphe Framework** to provide seamless enhancements, feature unlocks, and UI improvements.
 
-## 🩹 Patches list
+## ❓ About Foodvisor
+[Foodvisor](https://www.foodvisor.io/) is a popular AI-powered nutrition coach that helps users track their diet by simply taking a photo of their meal. It provides nutritional information, calorie counting, and personalized health advice.
+
+## 🩹 What are Morphe Patches?
+Morphe Patches are bytecode-level modifications that enhance the functionality of Android applications. By using this repository, you can apply custom logic to the Foodvisor APK to unlock advanced features or modify app behavior without needing the original source code.
+
+## ✨ Key Features
+- 🔓 **Feature Unlocks**: Access advanced nutritional insights and personalized coaching.
+- 🚫 **Clean Experience**: Remove intrusive elements for a smoother tracking workflow.
+- 🛠️ **Custom Enhancements**: Tailored modifications to improve the Foodvisor user interface.
+- ⚡ **Optimized Performance**: Lightweight patches that don't compromise app stability.
+
+## 🚀 Get Started
+
+### How to use these patches
+The easiest way to apply these patches is through the **Morphe Manager** or **Morphe CLI**.
+
+1. **Automatic Addition**:
+   [Click here to add these patches to Morphe](https://morphe.software/add-source?github=ameenalasady/foodvisor-morphe)
+
+2. **Manual Addition**:
+   Add this repository URL as a patch source in your Morphe client:
+   `https://github.com/ameenalasady/foodvisor-morphe`
+
+## 🩹 Patches List
 
 <!-- PATCHES_START EXPANDED -->
 > **[v1.0.0-dev.1](https://github.com/ameenalasady/foodvisor-morphe/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
@@ -27,34 +52,22 @@ This repository contains patches for the Foodvisor app, allowing for various enh
 
 <!-- PATCHES_END -->
 
-## 🚀 Get started
+## 🧑‍💻 Development & Usage
 
-To start using these patches, follow the instructions below.
+- **Workflow**: Development occurs in feature branches, which are merged into `dev` and finally into `main` for release.
+- **Versioning**: We follow [Semantic Versioning (SemVer)](https://semver.org/).
+- **Commits**: [Semantic Commits](https://www.conventionalcommits.org/) are used to maintain a clean and readable history.
 
-## 🧑‍💻 Usage
+### 🛠️ Building from Source
+To build these patches manually, ensure you have the Morphe development environment set up:
+1. Clone this repository.
+2. Follow the [Morphe Documentation](https://github.com/MorpheApp/morphe-documentation) for building and deploying.
 
-- Development starts in feature branches. Once a feature branch is ready, it is squashed and merged into the `dev` branch.
-- The `dev` branch is merged into the `main` branch once it is ready for release.
-- Semantic versioning is used to version Morphe Patches.
-- [Semantic commit](https://kapeli.com/cheat_sheets/Semantic_Commits.docset/Contents/Resources/Documents/index) messages are used for commits.
-
-## 📚 Everything else
-
-#### How to use these patches
-
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=MorpheApp/foodvisor-morphe
-
-Or manually add this repository url as a patch source in Morphe: https://github.com/MorpheApp/foodvisor-morphe
-
-### 📙 Contributing
-
-Thank you for considering contributing to Foodvisor Morphe Patches.  
-You can find the contribution guidelines [here](CONTRIBUTING.md).
-
-### 🛠️ Building
-
-To build Foodvisor Morphe Patches, you can follow the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation).
+## 📙 Contributing
+Contributions are welcome! Please see our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
 ## 📜 License
+Foodvisor Morphe Patches are licensed under the [GNU General Public License v3.0](LICENSE).
 
-Foodvisor Morphe Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+---
+*Disclaimer: This project is not affiliated with, authorized, maintained, sponsored or endorsed by Foodvisor or any of its affiliates or subsidiaries.*
